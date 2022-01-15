@@ -1,6 +1,10 @@
-### Hi there 👋
+## 😸😸😸
 
-#😸😸😸
+powershell is my hammer and the world is a nail
+
+security and MS stuff
+
+ctfs and practice
 
 <!--
 **blakebourgeois/blakebourgeois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
